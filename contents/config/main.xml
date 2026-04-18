@@ -1,0 +1,16 @@
+<kcfg xmlns="http://kde.org">
+  <group name="General">
+    <entry name="fontColor" type="Color">
+      <default>#ffffffff</default>
+    </entry>
+    <entry name="titleFontSize" type="Int">
+      <default>70</default>
+    </entry>
+    <entry name="dateFontSize" type="Int">
+      <default>34</default>
+    </entry>
+    <entry name="timeFontSize" type="Int">
+      <default>30</default>
+    </entry>
+  </group>
+</kcfg>

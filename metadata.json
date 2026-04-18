@@ -1,0 +1,14 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "KPlugin": {
+    "Id": "com.jimmycamus.clock",
+    "Name": "Jimmy's Plasma Clock",
+    "Description": "Plasma clock applet with a custom design.",
+    "Version": "0.1",
+    "Category": "Time",
+    "EnabledByDefault": true
+  },
+  "X-Plasma-API": "declarativeappletscript",
+  "X-Plasma-MainScript": "ui/main.qml",
+  "X-Plasma-API-Minimum-Version": "6.0"
+}
