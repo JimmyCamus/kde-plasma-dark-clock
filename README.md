@@ -2,6 +2,11 @@
 
 A small KDE Plasma widget that shows the current day, date and time with a stylized layout and custom fonts.
 
+<div align="center">
+  <img width="426" height="311" alt="Captura de pantalla_20260418_190445" src="https://github.com/user-attachments/assets/0197e8f5-1623-476b-8eae-e23f7f8ef4b3" />
+</div>
+
+
 ## Features
 
 - Real-time clock update every second
